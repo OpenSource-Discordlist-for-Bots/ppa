@@ -62,13 +62,13 @@ Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,
  hang out, and stay close with your friends and communities.
 
-Package: devpkg
+Package: htop
 Source: htop (2.2.0-1)
 Version: 2.2.0-1+b1
 Architecture: amd64
 Maintainer: Daniel Lange <DLange@debian.org>
 Installed-Size: 225
-Depends: libc6 (>= 2.15), libncursesw6 (>= 6), libtinfo6 (>= 6), python3, python3-pip, python3.7, python3.7-pip
+Depends: libc6 (>= 2.15), libncursesw6 (>= 6), libtinfo6 (>= 6)
 Suggests: lsof, strace
 Filename: ./htop_2.2.0-1+b1_amd64.deb
 Size: 92828
