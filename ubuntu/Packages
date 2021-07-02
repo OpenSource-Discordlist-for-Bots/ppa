@@ -62,3 +62,27 @@ Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,
  hang out, and stay close with your friends and communities.
 
+Package: htop
+Source: htop (2.2.0-1)
+Version: 2.2.0-1+b1
+Architecture: amd64
+Maintainer: Daniel Lange <DLange@debian.org>
+Installed-Size: 225
+Depends: libc6 (>= 2.15), libncursesw6 (>= 6), libtinfo6 (>= 6)
+Suggests: lsof, strace
+Filename: ./htop_2.2.0-1+b1_amd64.deb
+Size: 92828
+MD5sum: f28c4c4ba311a229ff01906227c3be60
+SHA1: e6f7cd32d64cc317e94d4f4b09b5ddad2fa1bbd5
+SHA256: 9578bb30334d665d7482084936062a19093825027f1994bb1590191f310ac4d3
+Section: utils
+Priority: optional
+Homepage: https://hisham.hm/htop/
+Description: interactive processes viewer
+ Htop is an ncursed-based process viewer similar to top, but it
+ allows one to scroll the list vertically and horizontally to see
+ all processes and their full command lines.
+ .
+ Tasks related to processes (killing, renicing) can be done without
+ entering their PIDs.
+
