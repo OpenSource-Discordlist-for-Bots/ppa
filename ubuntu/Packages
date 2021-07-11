@@ -86,3 +86,22 @@ Description: interactive processes viewer
  Tasks related to processes (killing, renicing) can be done without
  entering their PIDs.
 
+Package: termius-app
+Version: 7.15.1
+Architecture: amd64
+Maintainer: Termius Corporation <support@termius.com>
+Installed-Size: 214030
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./Termius.deb
+Size: 65834456
+MD5sum: eb8eb99348e1db1060c9f66bb6b52bb7
+SHA1: 50ad2546a5ebf259f8bb4705167e6be2f50a2ac1
+SHA256: 96a3f9889f3d46c97a73df0b89122dc56b4b52cb6072c2265781c2f1b93fec9b
+Section: default
+Priority: extra
+Homepage: https://termius.com/
+Description:
+  Desktop SSH Client
+License: unknown
+Vendor: Termius Corporation <support@termius.com>
+
