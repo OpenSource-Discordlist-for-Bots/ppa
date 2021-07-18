@@ -86,15 +86,15 @@ Description: interactive processes viewer
  Tasks related to processes (killing, renicing) can be done without
  entering their PIDs.
 
-Package: neofetch
+Package: neofetch-blb
 Version: 7.2
 Architecture: amd64
 Maintainer: dylanaraps
 Filename: ./neofetch-7.2-all.deb
 Size: 75252
-MD5sum: bbbf32ab7189c11bbee3998e6ee842eb
-SHA1: 6d2d152099664a9ebcf7bd201d232a41bff3a479
-SHA256: 3886286fa0ca005919fa887d3f7f73ff72caf596c7e18f56588badce6b57e9a2
+MD5sum: 23a60bffa2faedf1b251c880adf72e46
+SHA1: e44615a6be5d7a8db98919b566caf773cc859e9d
+SHA256: baee979b743610f65d174212735696150076aa694d919565428a6213fabe9fa6
 Description: A command-line system information tool written in bash 3.2+
 
 Package: termius-app
