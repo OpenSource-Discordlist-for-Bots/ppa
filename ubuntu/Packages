@@ -1,17 +1,17 @@
 Package: code
-Version: 1.57.1-1623937013
+Version: 1.58.2-1626302803
 Architecture: amd64
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 285989
+Installed-Size: 288042
 Depends: libnss3 (>= 2:3.26), gnupg, apt, libxkbfile1, libsecret-1-0, libgtk-3-0 (>= 3.10.0), libxss1, libgbm1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
 Provides: visual-studio-code
-Filename: ./code_1.57.1-1623937013_amd64.deb
-Size: 76349788
-MD5sum: 594172491a62755d4713b1028649b940
-SHA1: 6f8e4a381ff6e7d4a6612a4e339c38cdcf2869c8
-SHA256: a5a50ec014b27656c198e560796f3b41180f3bdb0c19f0005193f79ed47fc8b8
+Filename: ./code_1.58.2-1626302803_amd64.deb
+Size: 77084244
+MD5sum: bbe2db1a8027915a93fd0e34eb749d4f
+SHA1: 98325f5b5fd209cca2c682786ccd545d67ba23c9
+SHA256: c1fa404ef9c2779449640b071797b82bf159b8f99737b5c4108df945d04ffda5
 Section: devel
 Priority: optional
 Homepage: https://code.visualstudio.com/
@@ -22,19 +22,19 @@ Description: Code editing. Redefined.
  instructions and FAQ.
 
 Package: code-insiders
-Version: 1.58.0-1624598768
+Version: 1.59.0-1626326957
 Architecture: amd64
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 282988
+Installed-Size: 280307
 Depends: libnss3 (>= 2:3.26), gnupg, apt, libxkbfile1, libsecret-1-0, libgtk-3-0 (>= 3.10.0), libxss1, libgbm1
 Conflicts: visual-studio-code-insiders
 Replaces: visual-studio-code-insiders
 Provides: visual-studio-code-insiders
-Filename: ./code-insiders_1.58.0-1624598768_amd64.deb
-Size: 76350432
-MD5sum: d63bb6eb9718829be61d9792d0ed2db9
-SHA1: e6836d1177e8115b7e9967d68eba8b715e8c8afc
-SHA256: 7c099566b4efd02e7bf27b0fdcb347f910cdd1a60b2fee8e2a8a1a5e5bcf9565
+Filename: ./code-insiders_1.59.0-1626326957_amd64.deb
+Size: 75551496
+MD5sum: b3cc928997aab616d15fdadba9e139bc
+SHA1: ca89ae75fb82c7c13f0858f362ffc32e02e7e758
+SHA256: fe7de04772212a223b1d7d2b8838cce54aab4b2bf2e82a818051a6663c9febe2
 Section: devel
 Priority: optional
 Homepage: https://code.visualstudio.com/
@@ -115,4 +115,18 @@ Description:
   Desktop SSH Client
 License: unknown
 Vendor: Termius Corporation <support@termius.com>
+
+Package: winloading-splash-kde
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: Juliaaan2502
+Installed-Size: 81925
+Filename: ./winloading-1.0-all.deb
+Size: 42840
+MD5sum: cff7ffb2a6290e592e6b9b8be9640262
+SHA1: 5fae05f28d70d04bd51907ee8b3ac1ab13fb84af
+SHA256: 4011306af6de80112667d4a5ba6025db9600c92a887c957f1568762d6356ce86
+Priority: optional
+Description: A simple Splash Screen for KDE Plasma.
 
