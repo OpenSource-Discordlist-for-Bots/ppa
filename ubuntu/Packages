@@ -97,6 +97,34 @@ SHA1: e44615a6be5d7a8db98919b566caf773cc859e9d
 SHA256: baee979b743610f65d174212735696150076aa694d919565428a6213fabe9fa6
 Description: A command-line system information tool written in bash 3.2+
 
+Package: neofetch-i386
+Version: 7.2
+Architecture: i386
+Essential: no
+Maintainer: Juliaaan2502
+Installed-Size: 342
+Filename: ./neofetch-7.2-i386.deb
+Size: 75268
+MD5sum: 2fa1e2edd2aa588888bc2926a05e81fe
+SHA1: c10a7e65f0b9ca5359c6832999ea4b658f1eadae
+SHA256: 5c35b864efd1f24588dde713becedca4609e5ffe4c31f60f8f7beab537e44e62
+Priority: optional
+Description: neofetch for i386-based Devices
+
+Package: neofetch-i686
+Version: 7.2
+Architecture: i686
+Essential: no
+Maintainer: Juliaaan2502
+Installed-Size: 342
+Filename: ./neofetch-7.2-i686.deb
+Size: 75268
+MD5sum: db2403d0cabbddda038876e7487ebaa7
+SHA1: 4bda44ddfae8a74c908f16e0c5fb56968fc53983
+SHA256: 5ba4f05653804cd03cccb47cc51502028f4fb887a374d14f9d477daefe00df2c
+Priority: optional
+Description: neofetch for i686-based Devices
+
 Package: termius-app
 Version: 7.15.1
 Architecture: amd64
